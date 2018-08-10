@@ -10,7 +10,7 @@ Código criado a partir de uma séries de posts/artigos.
 
 Danilo Agostinho
 
-Front-end developer. Autor @Imasters. Mentor Traning Center. @danilodev_silva, clique aqui e saiba mais um pouco[medium](https://medium.com/@danilodev.silva)
+Front-end developer. Autor @Imasters. Mentor Traning Center. @danilodev_silva, clique aqui e saiba mais um pouco [Medium](https://medium.com/@danilodev.silva)
 
 ## Bibliotecas de componetes utilizadas
 * Angular Material
