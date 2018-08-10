@@ -16,3 +16,4 @@ Front-end developer. Autor @Imasters. Mentor Traning Center. @danilodev_silva, c
 * Angular Material
 * Bootstrap
 
+![training banking](https://user-images.githubusercontent.com/35746510/43937585-fe448ce8-9c34-11e8-830b-a07e6f7073d6.png)
